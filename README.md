@@ -1,6 +1,5 @@
-# Dev.finance$
+# Dev.finance$ - Estudo de front end 
 
-
-Projeito feito na maratona RockectSeat
+Projeito feito na Maratona Discover
 
 ![](dev.finances.png)
